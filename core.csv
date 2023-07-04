@@ -1,0 +1,25 @@
+pkg             ,prompt
+curl            ,utility
+i3              ,tiling window manager
+i3blocks        ,statusbar for i3wm
+alacritty       ,terminal 
+htop            ,system monitoring utility
+ranger          ,file manager
+ueberzug        ,image-in-terminal utility 
+xrandr          ,utility
+python3         ,python language
+rofi            ,application launcher
+playerctl       ,media controller
+ncdu            ,disk analyzer utility
+gnupg           ,gnu privacy guard
+pass            ,password manager
+browserpass     ,browser client for pass
+micro           ,micro editor
+sublime-text4   ,sublime text editor
+maim            ,screenshot utility 
+zsh             ,shell 
+xscreensaver    ,screen lock 
+firefox         ,browser 
+dunst           ,notification daemon
+zathura         ,document viewer
+zathura-pdf-mupdf ,pdf viewer
